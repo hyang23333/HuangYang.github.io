@@ -19,9 +19,9 @@ Miaoran Chen, Duojia Yang, Ziyi Yuan, **Yang Huang**, Shunchang Liu; Heterogeneo
 ---
 * **Non-Rigid 3D Shaperetrieval Based on Points Cloud Neural Network (Mentor: Zhouhui LIAN)  04/2019- Ongoing**    
  ➢ Developed a new large-scale 3D model point cloud dataset based on 3Dmax and Meshlab and provided multiple data formats.  
- ➢ Designed and trained a new network module for extracting features of non-rigid 3D models based on their posture-invariance and     rotation-invariance.  
- ➢ Built a platform for retrieval of 3D models and provided the evaluation methods of different retrival methods; combined the characteristics of geometric withthe point neural network to analyze the main features and achieved efficient retrieval/classification results.  
-![Image](https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.1.PNG) 
+ ➢ Designed and trained a new network module for extracting features of non-rigid 3D models based on their posture-invariance and rotation-invariance.  
+ ➢ Built a platform for retrieval of 3D models and provided the evaluation methods of different retrieval methods; combined the characteristics of geometric with the point neural network to analyze the main features and achieved efficient retrieval/classification results.  
+![Image](https://github.com/hyang23333/HuangYang.github.io/blob/master/project4.jpg) 
 * **Design of a Low-rank Convolutional Neural Networks (Mentor: Zhouhui LIAN) 06/2019- 09/2019** 
  ➢ Designed a low-rank point cloud convolutional neural networks in python to achieve plugin and play for image quality improvement, noise reduction, and the reduction of contour contortion.  
  ➢ Implemented the tests on several SOTA models and data sets: acades, cityscapes, improving the quality of the low frequency part and significantly lower the FIDscore.  
