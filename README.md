@@ -21,7 +21,13 @@ Miaoran Chen, Duojia Yang, Ziyi Yuan, **Yang Huang**, Shunchang Liu; Heterogeneo
  ➢ Developed a new large-scale 3D model point cloud dataset based on 3Dmax and Meshlab and provided multiple data formats.  
  ➢ Designed and trained a new network module for extracting features of non-rigid 3D models based on their posture-invariance and rotation-invariance.  
  ➢ Built a platform for retrieval of 3D models and provided the evaluation methods of different retrieval methods; combined the characteristics of geometric with the point neural network to analyze the main features and achieved efficient retrieval/classification results.  
- 
+<div  align="left">   
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.1.PNG" width="512" >  
+</div>   
+<div  align="right">     
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.2.PNG" width="512" >    
+</div>   
+
 * **Design of a Low-rank Convolutional Neural Networks (Mentor: Zhouhui LIAN) 06/2019- 09/2019**   
  ➢ Designed a low-rank point cloud convolutional neural networks in python to achieve plugin and play for image quality improvement, noise reduction, and the reduction of contour contortion.   
  ➢ Implemented the tests on several SOTA models and data sets: acades, cityscapes, improving the quality of the low frequency part and significantly lower the FIDscore.  
@@ -31,12 +37,17 @@ Next:
  
 <div  align="center">   
 <img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project2.PNG" width="512" >  
-</div>  
+</div>   
+
 * **Heterogeneous Face Recognition: Multi-model Fusion and Siamese Network 05/2019- 011/2019**   
  ➢ Aimed to advance the efficiency of the heterogeneous face recognition in capturing the common features of images.  
  ➢ Designed an end-to-end network with fused neural networks to extract face features, improving the identification ability of the model; adopted the Pseudo-Siamese Network, integrated contrastive loss and binary cross entropy loss to complete the identification work.  
  ➢ Applied the Caricature-Visual dataset which well-performed on identifying unseen images of people in datasets, and work well on identifying new images of people that are not included in the dataset.  
-   
+  
+<div  align="center">   
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project3.PNG" width="512" >  
+</div>  
+ 
 * **Research on Shooting Compilation Clipping Method of Football Match Videos 03/2019-03/2020**   
  ➢ Developed a program which could upload unprocessed fixed-view panoramic videos of the same field through a visual interface, auto- compilations.    
  ➢ Carried out pre-processing modeling and deblurring based on background priori information to separate moving object from original background, then used the algorithm to extract current frame position and trajectory of the football.    
