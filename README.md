@@ -21,12 +21,12 @@ Miaoran Chen, Duojia Yang, Ziyi Yuan, **Yang Huang**, Shunchang Liu; Heterogeneo
  ➢ Developed a new large-scale 3D model point cloud dataset based on 3Dmax and Meshlab and provided multiple data formats.  
  ➢ Designed and trained a new network module for extracting features of non-rigid 3D models based on their posture-invariance and rotation-invariance.  
  ➢ Built a platform for retrieval of 3D models and provided the evaluation methods of different retrieval methods; combined the characteristics of geometric with the point neural network to analyze the main features and achieved efficient retrieval/classification results.  
-![Image](https://github.com/hyang23333/HuangYang.github.io/blob/master/project4.jpg) 
+![Project1.1](https://github.com/hyang23333/HuangYang.github.io/blob/master/project4.jpg)
 * **Design of a Low-rank Convolutional Neural Networks (Mentor: Zhouhui LIAN) 06/2019- 09/2019** 
  ➢ Designed a low-rank point cloud convolutional neural networks in python to achieve plugin and play for image quality improvement, noise reduction, and the reduction of contour contortion.  
  ➢ Implemented the tests on several SOTA models and data sets: acades, cityscapes, improving the quality of the low frequency part and significantly lower the FIDscore.  
 Next:  
- ➢ Balance the low-rank component and sparse part on high resolution atlas with less loss of high frequency detail in image.  
+ ➢ Balance the low-rank component and sparse part on high resolution atlas with less loss of high frequency detail in images.  
  ➢ Conduct the experience on the coarse to fine network; respectively generated the low-frequency contour and realistic details; observe the quality of the low resolution part and verify its feasibility as high resolution pictures.  
    
 * **Heterogeneous Face Recognition: Multi-model Fusion and Siamese Network 05/2019- 011/2019**   
