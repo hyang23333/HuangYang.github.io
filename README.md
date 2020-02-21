@@ -29,23 +29,24 @@ Next:
  ➢ Balance the low-rank component and sparse part on high resolution atlas with less loss of high frequency detail in image.  
  ➢ Conduct the experience on the coarse to fine network; respectively generated the low-frequency contour and realistic details; observe the quality of the low resolution part and verify its feasibility as high resolution pictures.  
    
-* **Heterogeneous Face Recognition: Multi-model Fusion and Siamese Network 05/2019- 011/2019** 
- ➢ Aimed to advance the efficiency of the heterogeneous face recognition in capturing the common features of images.
- ➢ Designed an end-to-end network with fused neural networks to extract face features, improving the identification ability of the model; adopted the Pseudo-Siamese Network, integrated contrastive loss and binary cross entropy loss to complete the identification work.
- ➢ Applied the Caricature-Visual dataset which well-performed on identifying unseen images of people in datasets, and work well on identifying new images of people that are not included in dataset.
+* **Heterogeneous Face Recognition: Multi-model Fusion and Siamese Network 05/2019- 011/2019**   
+ ➢ Aimed to advance the efficiency of the heterogeneous face recognition in capturing the common features of images.  
+ ➢ Designed an end-to-end network with fused neural networks to extract face features, improving the identification ability of the model; adopted the Pseudo-Siamese Network, integrated contrastive loss and binary cross entropy loss to complete the identification work.  
+ ➢ Applied the Caricature-Visual dataset which well-performed on identifying unseen images of people in datasets, and work well on identifying new images of people that are not included in the dataset.  
    
-* **Research on Shooting Compilation Clipping Method of Football Match Videos 03/2019-03/2020 ** 
- ➢ Developed a program which could upload unprocessed fixed-view panoramic videos of the same field through a visual interface, auto- compilations.  
- ➢ Carried out pre-processing modeling and deblurring based on background priori information to separate moving object from original background, then used the algorithm to extract current frame position and trajectory of the football.  
- ➢ Utilized frame difference method and background difference method to conduct experiments and make adjustments, so that the soccer under panoramic video could be accurately identified from a large number of targets, and implemented the experimental exploration on the generated class model and discriminant class mode.  
- ➢ Took into consideration the characteristics of soccer and players in football matches to improve the algorithm based on OpenCV and Visual Studio experiments and seek the optimal solution for football trajectory tracking.  
+* **Research on Shooting Compilation Clipping Method of Football Match Videos 03/2019-03/2020**   
+ ➢ Developed a program which could upload unprocessed fixed-view panoramic videos of the same field through a visual interface, auto- compilations.    
+ ➢ Carried out pre-processing modeling and deblurring based on background priori information to separate moving object from original background, then used the algorithm to extract current frame position and trajectory of the football.    
+ ➢ Utilized frame difference method and background difference method to conduct experiments and make adjustments, so that the soccer under panoramic video could be accurately identified from a large number of targets, and implemented the experimental exploration on the generated class model and discriminant class mode.    
+ ➢ Took into consideration the characteristics of soccer and players in football matches to improve the algorithm based on OpenCV and Visual Studio experiments and seek the optimal solution for football trajectory tracking.    
 
 ![Image](src)
 ### Skills
+---
 *Language：C/C++, python, matlab, java  
 *Tools：Tensorflow, Pytorch, OpenGL, 3Dmax, MeshLab  
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hyang23333/HuangYang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
+---
 Email: m13210889156@outlook.com  
 Tel: 13261611722
