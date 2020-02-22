@@ -1,4 +1,4 @@
-## Welcome to HuangYang’s Pages                                        [[CV]]()
+## Welcome to HuangYang’s Pages                                        [[CV]](https://github.com/hyang23333/HuangYang.github.io/blob/master/HuangYang_CV.pdf)
 
 ### Bio
 ---
@@ -13,7 +13,7 @@ Beijing Jiaotong University (BJTU), Beijing, P.R. China                         
 
 ### Publication
 ---
-[Miaoran Chen, Duojia Yang, Ziyi Yuan, **Yang Huang**, Shunchang Liu; Heterogeneous face recognition: Multi-model fusion and Siamese Network, ICMIP 2020 -EI Conference.]()
+[Miaoran Chen, Duojia Yang, Ziyi Yuan, **Yang Huang**, Shunchang Liu; Heterogeneous face recognition: Multi-model fusion and Siamese Network, ICMIP 2020 -EI Conference.](https://github.com/hyang23333/HuangYang.github.io/blob/master/Heterogeneous%20face%20recognition%2C%20Model%20fusion%2C%20Deep%20learning%2C%20Siamese%20network_ICMIP.pdf)
 
 ### Project Experience 
 ---
