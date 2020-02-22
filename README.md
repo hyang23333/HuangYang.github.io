@@ -24,6 +24,9 @@ Beijing Jiaotong University (BJTU), Beijing, P.R. China                         
 <div  align="center">    
 <img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.1.PNG?raw=true" width="512" >   
 </div>  
+<div  align="center">    
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.2.PNG?raw=true" width="512" >   
+</div>  
 
 
 * **Design of a Low-rank Convolutional Neural Networks (Mentor: Zhouhui LIAN) 06/2019- 09/2019**   
@@ -35,9 +38,6 @@ Next:
  
 <div  align="center">   
 <img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project2.PNG?raw=true" width="512" >  
-</div>   
-<div  align="center">    
-<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.2.PNG?raw=true" width="512" >   
 </div>    
 
 * **Heterogeneous Face Recognition: Multi-model Fusion and Siamese Network 05/2019- 011/2019**   
