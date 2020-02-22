@@ -22,8 +22,8 @@ Beijing Jiaotong University (BJTU), Beijing, P.R. China                         
  ➢ Designed and trained a new network module for extracting features of non-rigid 3D models based on their posture-invariance and rotation-invariance.  
  ➢ Built a platform for retrieval of 3D models and provided the evaluation methods of different retrieval methods; combined the characteristics of geometric with the point neural network to analyze the main features and achieved efficient retrieval/classification results.  
 <div  align="left">   
-<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.1.PNG?raw=true" width="400" >      
-<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.2.PNG?raw=true" width="400" >    
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.1.PNG?raw=true" width="300" >      
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.2.PNG?raw=true" width="300" >    
 </div>   
 
 * **Design of a Low-rank Convolutional Neural Networks (Mentor: Zhouhui LIAN) 06/2019- 09/2019**   
@@ -34,7 +34,7 @@ Next:
  ➢ Conduct the experience on the coarse to fine network; respectively generated the low-frequency contour and realistic details; observe the quality of the low resolution part and verify its feasibility as high resolution pictures. 
  
 <div  align="center">   
-<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project2.PNG" width="512" >  
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project2.PNG?raw=true" width="512" >  
 </div>   
 
 * **Heterogeneous Face Recognition: Multi-model Fusion and Siamese Network 05/2019- 011/2019**   
@@ -43,7 +43,7 @@ Next:
  ➢ Applied the Caricature-Visual dataset which well-performed on identifying unseen images of people in datasets, and work well on identifying new images of people that are not included in the dataset.  
   
 <div  align="center">   
-<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project3.PNG" width="512" >  
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project3.PNG?raw=true" width="512" >  
 </div>  
  
 * **Research on Shooting Compilation Clipping Method of Football Match Videos 03/2019-03/2020**   
@@ -53,7 +53,7 @@ Next:
  ➢ Took into consideration the characteristics of soccer and players in football matches to improve the algorithm based on OpenCV and Visual Studio experiments and seek the optimal solution for football trajectory tracking.    
  
 <div  align="center">   
-<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project4.jpg" width="512" >  
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project4.jpg?raw=true" width="512" >  
 </div> 
 
 ### Skills
