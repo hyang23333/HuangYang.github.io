@@ -20,11 +20,11 @@ Beijing Jiaotong University (BJTU), Beijing, P.R. China                         
 * **Non-Rigid 3D Shaperetrieval Based on Points Cloud Neural Network (Mentor: Zhouhui LIAN)  04/2019- Ongoing**    
  ➢ Developed a new large-scale 3D model point cloud dataset based on 3Dmax and Meshlab and provided multiple data formats.  
  ➢ Designed and trained a new network module for extracting features of non-rigid 3D models based on their posture-invariance and rotation-invariance.  
- ➢ Built a platform for retrieval of 3D models and provided the evaluation methods of different retrieval methods; combined the characteristics of geometric with the point neural network to analyze the main features and achieved efficient retrieval/classification results.  
-<div  align="left">   
-<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.1.PNG?raw=true" width="300" >      
-<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.2.PNG?raw=true" width="300" >    
-</div>   
+ ➢ Built a platform for retrieval of 3D models and provided the evaluation methods of different retrieval methods; combined the characteristics of geometric with the point neural network to analyze the main features and achieved efficient retrieval/classification results.   
+<div  align="center">    
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.1.PNG?raw=true" width="512" >   
+</div>  
+
 
 * **Design of a Low-rank Convolutional Neural Networks (Mentor: Zhouhui LIAN) 06/2019- 09/2019**   
  ➢ Designed a low-rank point cloud convolutional neural networks in python to achieve plugin and play for image quality improvement, noise reduction, and the reduction of contour contortion.   
@@ -36,6 +36,9 @@ Next:
 <div  align="center">   
 <img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project2.PNG?raw=true" width="512" >  
 </div>   
+<div  align="center">    
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.2.PNG?raw=true" width="512" >   
+</div>    
 
 * **Heterogeneous Face Recognition: Multi-model Fusion and Siamese Network 05/2019- 011/2019**   
  ➢ Aimed to advance the efficiency of the heterogeneous face recognition in capturing the common features of images.  
