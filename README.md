@@ -1,4 +1,4 @@
-## Welcome to HuangYang’s Pages
+## Welcome to HuangYang’s Pages                                        [[CV]]()
 
 ### Bio
 ---
@@ -13,7 +13,7 @@ Beijing Jiaotong University (BJTU), Beijing, P.R. China                         
 
 ### Publication
 ---
-Miaoran Chen, Duojia Yang, Ziyi Yuan, **Yang Huang**, Shunchang Liu; Heterogeneous face recognition: Multi-model fusion and Siamese Network, ICMIP 2020 -EI Conference.
+[Miaoran Chen, Duojia Yang, Ziyi Yuan, **Yang Huang**, Shunchang Liu; Heterogeneous face recognition: Multi-model fusion and Siamese Network, ICMIP 2020 -EI Conference.]()
 
 ### Project Experience 
 ---
@@ -22,10 +22,10 @@ Miaoran Chen, Duojia Yang, Ziyi Yuan, **Yang Huang**, Shunchang Liu; Heterogeneo
  ➢ Designed and trained a new network module for extracting features of non-rigid 3D models based on their posture-invariance and rotation-invariance.  
  ➢ Built a platform for retrieval of 3D models and provided the evaluation methods of different retrieval methods; combined the characteristics of geometric with the point neural network to analyze the main features and achieved efficient retrieval/classification results.  
 <div  align="left">   
-<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.1.PNG" width="512" >  
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.1.PNG" width="400" >  
 </div>   
 <div  align="right">     
-<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.2.PNG" width="512" >    
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.2.PNG" width="400" >    
 </div>   
 
 * **Design of a Low-rank Convolutional Neural Networks (Mentor: Zhouhui LIAN) 06/2019- 09/2019**   
