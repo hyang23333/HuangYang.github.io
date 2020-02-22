@@ -22,9 +22,7 @@ Beijing Jiaotong University (BJTU), Beijing, P.R. China                         
  ➢ Designed and trained a new network module for extracting features of non-rigid 3D models based on their posture-invariance and rotation-invariance.  
  ➢ Built a platform for retrieval of 3D models and provided the evaluation methods of different retrieval methods; combined the characteristics of geometric with the point neural network to analyze the main features and achieved efficient retrieval/classification results.  
 <div  align="left">   
-<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.1.PNG" width="400" >  
-</div>   
-<div  align="right">     
+<img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.1.PNG" width="400" >      
 <img src="https://github.com/hyang23333/HuangYang.github.io/blob/master/project1.2.PNG" width="400" >    
 </div>   
 
